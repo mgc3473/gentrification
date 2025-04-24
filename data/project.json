@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "mgc3473",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208988962?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "mgc3473",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-04-24T15:01:15.258Z",
-    "updated_at": "2025-04-24T15:01:15.258Z"
-  }
+    "updated_at": "2025-04-24T15:01:15.258Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "f088dae8-640c-45af-b200-e1f2aeed4d7d": {
+      "content": [],
+      "created_at": "2025-04-24T15:01:15.262Z",
+      "created_by": "mgc3473",
+      "title": "Saving South Congress",
+      "updated_at": "2025-04-24T15:01:15.262Z",
+      "updated_by": "mgc3473",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "f088dae8-640c-45af-b200-e1f2aeed4d7d"
+  ]
 }
