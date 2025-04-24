@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "mgc3473",
+    "is_private": false,
+    "title": "Saving South Congress",
+    "description": "In my project four on gentrification, I discussed what gentrification is, how it affects the South Congress area in Austin, Texas, and what can be done to address this issue for the better. ",
+    "language": "en",
+    "slug": "gentrification",
+    "creator": "mgc3473",
+    "authors": "Maria Contreras",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-04-24T15:01:15.258Z",
+    "updated_at": "2025-04-24T15:01:15.258Z"
   }
 }
