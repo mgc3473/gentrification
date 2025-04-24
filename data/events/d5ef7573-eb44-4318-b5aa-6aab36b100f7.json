@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "6a820329-25d2-44bc-aca1-b0966373dbd2": {
+      "label": "Video file",
+      "is_offline": false,
+      "file_url": "https://ia801705.us.archive.org/6/items/Mariapodcast/Mariapodcast.mp3",
+      "duration": 483,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Saving South Congress",
+  "created_at": "2025-04-24T15:08:02.166Z",
+  "created_by": "mgc3473",
+  "updated_at": "2025-04-24T15:08:02.166Z",
+  "updated_by": "mgc3473"
+}
